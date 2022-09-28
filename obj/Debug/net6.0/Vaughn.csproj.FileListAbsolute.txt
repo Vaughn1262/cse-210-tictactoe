@@ -1,0 +1,15 @@
+C:\Users\vaugh\Git\Vaughn\bin\Debug\net6.0\Vaughn.exe
+C:\Users\vaugh\Git\Vaughn\bin\Debug\net6.0\Vaughn.deps.json
+C:\Users\vaugh\Git\Vaughn\bin\Debug\net6.0\Vaughn.runtimeconfig.json
+C:\Users\vaugh\Git\Vaughn\bin\Debug\net6.0\Vaughn.dll
+C:\Users\vaugh\Git\Vaughn\bin\Debug\net6.0\Vaughn.pdb
+C:\Users\vaugh\Git\Vaughn\obj\Debug\net6.0\Vaughn.csproj.AssemblyReference.cache
+C:\Users\vaugh\Git\Vaughn\obj\Debug\net6.0\Vaughn.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\vaugh\Git\Vaughn\obj\Debug\net6.0\Vaughn.AssemblyInfoInputs.cache
+C:\Users\vaugh\Git\Vaughn\obj\Debug\net6.0\Vaughn.AssemblyInfo.cs
+C:\Users\vaugh\Git\Vaughn\obj\Debug\net6.0\Vaughn.csproj.CoreCompileInputs.cache
+C:\Users\vaugh\Git\Vaughn\obj\Debug\net6.0\Vaughn.dll
+C:\Users\vaugh\Git\Vaughn\obj\Debug\net6.0\refint\Vaughn.dll
+C:\Users\vaugh\Git\Vaughn\obj\Debug\net6.0\Vaughn.pdb
+C:\Users\vaugh\Git\Vaughn\obj\Debug\net6.0\Vaughn.genruntimeconfig.cache
+C:\Users\vaugh\Git\Vaughn\obj\Debug\net6.0\ref\Vaughn.dll
